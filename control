@@ -1,0 +1,9 @@
+Package: com.icraze.uyoucrashfix
+Name: uYouCrashFix
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fixes uYou crash bugs on YouTube v18.43.4
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
